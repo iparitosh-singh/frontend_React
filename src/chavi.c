@@ -1,7 +1,7 @@
 
 #include<string.h>
 #include<stdio.h>
-#include<stdlib.h>sladjfslaskdfjlkjadfsls
+#include<stdlib.h>
 int main()
 {
     //arrays of strings 
